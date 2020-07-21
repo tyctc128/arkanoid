@@ -24,7 +24,7 @@ class MLPlay:
         else:
             command = "MOVE_LEFT"
         if ball_served
-        #return command
+        return command
 
     def reset(self):
         """
